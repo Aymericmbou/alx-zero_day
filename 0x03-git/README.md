@@ -1,1 +1,1 @@
-I m now a ALX Student, this is my first repository as a full-stack engineer
+this project teaches us how to handle the different operations on guihub from the terminal 
